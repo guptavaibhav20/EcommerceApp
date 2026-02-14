@@ -1,0 +1,19 @@
+# Maven / Spring Boot build output
+target/
+*.class
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Secrets / local configs
+.env
+application-local.properties
